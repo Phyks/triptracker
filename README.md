@@ -1,3 +1,5 @@
+This is a fork of the original [Trip Tracker app](https://github.com/jcs/triptracker). The goal is to make it compatible with [Huginn](https://github.com/cantino/huginn) and publishable on F-Droid.
+
 ###Trip Tracker
 
 This is an Android app I threw together in a few hours to do periodic GPS
